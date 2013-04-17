@@ -5,7 +5,7 @@ Azure Blog Reader
 
 Independent Android Project
 
-Product Screen Shot: <img src="http://farm9.staticflickr.com/8122/8658408194_c9c526f2c7_m.jpg">
+Product Screen Shot: <div><img src="http://farm9.staticflickr.com/8122/8658408194_c9c526f2c7_m.jpg"></div>
 
 keywords: android | java | async tasks | intent | model-view-controller |
 
