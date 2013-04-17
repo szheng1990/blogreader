@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SZReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="no_items">No items to display!</string>
+
+    <string-array name="android_names">
+        <item>Android beta</item>
+        <item>Android 1.0</item>
+        <item>Android 1.1</item>
+        <item>Cheese Cake</item>
+        <item>Jelly Bean</item>
+        <item>Froyo</item>
+    </string-array>
+
+    <string name="title">Oops! Sorry!</string>
+    <string name="error_message">There was an error getting the blog post.</string>
+    <string name="title_activity_blog_web_view">Blog Post</string>
+    <string name="action_share">Share this page</string>
+    <string name="share_chooser_title">Choose Apps</string>
+
+</resources>
